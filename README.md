@@ -5,6 +5,7 @@ Penetration tester, Cybersecurity student 💻
 🔖Certifications 🔖
 - eJPT - 04.2022
 - PNPT - Coming soon...
+- OSCP - Coming soon...
 
 <!---
 em1c/em1c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
