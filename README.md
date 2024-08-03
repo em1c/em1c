@@ -16,7 +16,7 @@ My current primary work involves web application and mobile security, although I
 
 ---
 ### 🔴 Blog
-Visit my [blog](https://medium.com/@eandrzejewski) 🚩
+Visit my [blog](https://eandrzejewski.medium.com/) 🚩
 <!---
 em1c/em1c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
