@@ -12,7 +12,7 @@ My current primary work involves web application and mobile security, although I
 - [BSCP](https://portswigger.net/web-security/e/c/ac7477cde3aea113) - 09.2023
 - [eMAPT](https://certs.ine.com/1209620d-ed2a-4f81-9c03-a6548c80c4f8) - 02.2024
 
-**Hack The Box** profile: [em1k](https://app.hackthebox.com/profile/156671)
+**Hack The Box** profile: [em1k](https://app.hackthebox.com/users/156671)
 
 ---
 ### 🔴 Blog
